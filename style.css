@@ -455,6 +455,7 @@ form textarea {
     background: var(--main-color);
     text-align: center;
     color: #fff;
+    width: 100vw;
 }
 
 .copyright a {
